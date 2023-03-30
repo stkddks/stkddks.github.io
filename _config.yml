@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sang-A's Blog"
+title                    : "우주 리미티드 블로그 : Universe Limited 🌙"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sang-A Lee"
@@ -291,3 +291,4 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar_main: true
