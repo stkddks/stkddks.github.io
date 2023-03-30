@@ -12,6 +12,7 @@ toc_sticky: true
  
 date: 2023-03-30
 last_modified_at: 2023-03-30
+sidebar_main: true
 ---
 
 ## 0. 머릿말
