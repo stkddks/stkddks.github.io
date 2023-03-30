@@ -105,10 +105,11 @@ analytics:
 # Site Author
 author:
   name             : "Sang-A Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/assets/images/me.jpg"
+  bio              : "나아가는 아이보리👱‍♀️"
+  # location         : "Somewhere"
+  description      : "Welcome Ivory's Blog"
+  email            : "stkddks@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
