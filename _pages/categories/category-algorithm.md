@@ -1,10 +1,11 @@
 ---
 title: "Blog 채워나가기"
 layout: archive
-permalink: categories/blog
+permalink: categories/algorithm
 author_profile: true
+sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.Blog %}
+{% assign posts = site.categories.Algorithm %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
