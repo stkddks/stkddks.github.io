@@ -3,7 +3,7 @@ title:  "[Github 블로그] 나의 두번째 포스팅"
 excerpt: "Github 블로그에 하는 나의 두번째 포스팅. "
 
 categories:
-  - Algorithm
+  - Blog
 tags:
   - [Blog, stkddks, Github, Git]
 

@@ -1,17 +1,17 @@
 ---
-title:  "[Github 블로그] 나의 두번째 포스팅"
-excerpt: "Github 블로그에 하는 나의 두번째 포스팅. "
+title:  "[Github 블로그] 나의 세번째 포스팅"
+excerpt: "Github 블로그에 하는 나의 세번째 포스팅. "
 
 categories:
-  - Blog
+  - Algorithm
 tags:
-  - [Blog, stkddks, Github, Git]
+  - [Algorithm, stkddks, Github, Git]
 
 toc: true
 toc_sticky: true
  
-date: 2023-03-30
-last_modified_at: 2023-03-30
+date: 2023-04-14
+last_modified_at: 2023-04-14
 sidebar_main: true
 ---
 
